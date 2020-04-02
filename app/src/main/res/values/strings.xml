@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ItEngKotlin</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tabLayoutName">Слова</string>
+    <string name="tabLayoutNameTwo">Статьи</string>
+    <string name="word">Word</string>
+    <string name="translation">translation</string>
+</resources>
